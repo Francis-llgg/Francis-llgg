@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Francis-llgg
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning coding with PyTorch
+- 👀 I’m interested in Control, ML, DL, AI
+- 🌱 I’m currently learning coding with python(PyTorch), MATLAB, C
 - 💞️ I’m looking to collaborate on maybe nothing(?
-- 📫 How to reach me 2531072199@qq.com
+- 📫 How to reach me zhengzilong@buaa.edu.cn
 
 <!---
 Francis-llgg/Francis-llgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
