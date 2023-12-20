@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Francis-llgg
 - 👀 I’m interested in Control, DSP, ML, DL, AI
-- 🌱 I’m currently learning coding with python(PyTorch), MATLAB, C
+- 🌱 I’m currently learning coding with python(PyTorch), MATLAB, C, Cpp
 - 💞️ I’m looking to collaborate on maybe nothing(?
 - 📫 How to reach me zhengzilong@buaa.edu.cn
 
